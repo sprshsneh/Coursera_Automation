@@ -14,11 +14,12 @@ Detailed Description: Hackath Ideas
 2. Look for Language Learning; Extract all the languages and different levels with its total count & display them
 3. In Home page, go to "For Enterprise"; Look into Courses for Campus under Product; Fill the  "Ready to transform" form with any one input invalid (example: email); Capture the error message & display
 (Suggested Site: coursera.org however  you are free to choose any other legitimate  site)
-Key Automation Scope
 
-Handling different browser windows, search option
-Extract multiple drop down list items & store in collections
-Navigating back to home page
-Filling form (in different objects in web page)
-Capture warning message
-Scrolling down in web page
+
+Key Automation Scope
+1.Handling different browser windows, search option
+2.Extract multiple drop down list items & store in collections
+3.Navigating back to home page
+4.Filling form (in different objects in web page)
+5.Capture warning message
+6.Scrolling down in web page
